@@ -1,5 +1,5 @@
 # SoccerLeague
-A java application to manage a soccer league.
+A java application to manage a soccer league. Follows the MVC design pattern.
 
 Utilises:
 
